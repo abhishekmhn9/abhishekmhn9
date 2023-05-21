@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekmhn9
 - 👀 I’m interested in game developing and game art. Also, intrested in 
 - 🌱 I’m currently learning Unity and C# developing. 
-- 📫 Reach me at abhishekmhn9@gmail.com
+- 📫 Reach me at abhishekmhn9@hotmail.com
 
 <!---
 abhishekmhn9/abhishekmhn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
