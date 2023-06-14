@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekmhn9
-- 👀 I’m interested in game developing and game art. Also, intrested in 
+- 👀 I’m interested in game developing and game art. 
 - 🌱 I’m currently learning Unity and C# developing. 
 - 📫 Reach me at abhishekmhn9@hotmail.com
 
